@@ -1,8 +1,6 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: seongland
+repo: seongland-status
 
-# Add your sites here
 sites:
   - name: Seongland
     url: https://www.seongland.com
