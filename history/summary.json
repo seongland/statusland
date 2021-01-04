@@ -22,19 +22,19 @@
     "url": "https://doc.seongland.com",
     "icon": "https://favicons.githubusercontent.com/doc.seongland.com",
     "slug": "seongland-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "96.86%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
     "time": 273,
-    "timeDay": 304,
+    "timeDay": 291,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2021-01-04": 0
+      "2021-01-04": 197
     }
   }
 ]
