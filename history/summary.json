@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 781,
-    "timeWeek": 357,
-    "timeMonth": 445,
-    "timeYear": 489,
+    "time": 493,
+    "timeDay": 776,
+    "timeWeek": 409,
+    "timeMonth": 455,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   },
   {
@@ -28,15 +28,33 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.59%",
-    "time": 408,
-    "timeDay": 232,
-    "timeWeek": 504,
-    "timeMonth": 402,
-    "timeYear": 408,
+    "time": 405,
+    "timeDay": 234,
+    "timeWeek": 474,
+    "timeMonth": 397,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2021-02-22": 12,
       "2021-02-12": 140,
       "2021-01-04": 197
     }
+  },
+  {
+    "name": "Pointland",
+    "url": "https://point.seongland.com",
+    "icon": "https://favicons.githubusercontent.com/point.seongland.com",
+    "slug": "pointland",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 933,
+    "timeDay": 933,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
+    "dailyMinutesDown": {}
   }
 ]
