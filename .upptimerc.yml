@@ -6,6 +6,8 @@ sites:
     url: https://www.seongland.com
   - name: Seongland Wiki
     url: https://doc.seongland.com
+  - name: Pointland
+    url: https://point.seongland.com
 
 status-website:
   cname: status.seongland.com
