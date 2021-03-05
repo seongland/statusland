@@ -4,10 +4,12 @@ repo: seongland-status
 sites:
   - name: Seongland
     url: https://www.seongland.com
-  - name: Seongland Wiki
-    url: https://doc.seongland.com
   - name: Pointland
     url: https://point.seongland.com
+  - name: Seongland Live
+    url: https://point.seongland.com
+  - name: Seongland Wiki
+    url: https://doc.seongland.com
 
 status-website:
   cname: status.seongland.com
