@@ -4,10 +4,14 @@ repo: seongland-status
 sites:
   - name: Seongland
     url: https://www.seongland.com
+  - name: Seongland Account
+    url: https://account.seongland.com
   - name: Pointland
     url: https://point.seongland.com
   - name: Seongland Live
-    url: https://point.seongland.com
+    url: https://live.seongland.com
+  - name: Seongland Spline
+    url: https://spline.seongland.com
   - name: Seongland Wiki
     url: https://doc.seongland.com
 
