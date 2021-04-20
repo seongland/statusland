@@ -10,8 +10,6 @@ sites:
     url: https://point.seongland.com
   - name: Seongland Live
     url: https://live.seongland.com
-  - name: Seongland Spline
-    url: https://spline.seongland.com
   - name: Seongland Wiki
     url: https://doc.seongland.com
 
