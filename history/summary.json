@@ -21,6 +21,24 @@
     }
   },
   {
+    "name": "Seongland Next",
+    "url": "https://next.seongland.com",
+    "icon": "https://favicons.githubusercontent.com/next.seongland.com",
+    "slug": "seongland-next",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Seongland Account",
     "url": "https://account.seongland.com",
     "icon": "https://favicons.githubusercontent.com/account.seongland.com",
