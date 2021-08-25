@@ -4,6 +4,8 @@ repo: seongland-status
 sites:
   - name: Seongland
     url: https://www.seongland.com
+  - name: Seongland Next
+    url: https://next.seongland.com
   - name: Seongland Account
     url: https://account.seongland.com
   - name: Pointland
