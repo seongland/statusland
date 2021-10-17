@@ -4,7 +4,7 @@
     "url": "https://www.seongland.com",
     "icon": "https://favicons.githubusercontent.com/www.seongland.com",
     "slug": "seongland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,7 @@
     "uptimeYear": "99.75%",
     "time": 414,
     "timeDay": 67,
-    "timeWeek": 178,
+    "timeWeek": 148,
     "timeMonth": 206,
     "timeYear": 414,
     "dailyMinutesDown": {
