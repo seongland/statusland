@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.seongland.com",
     "slug": "seongland",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 460,
-    "timeWeek": 186,
-    "timeMonth": 192,
+    "timeDay": 134,
+    "timeWeek": 179,
+    "timeMonth": 190,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2021-03-02": 75,
-      "2021-03-01": 163
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seongland Next",
@@ -31,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 325,
-    "timeWeek": 316,
-    "timeMonth": 374,
-    "timeYear": 639,
+    "time": 636,
+    "timeDay": 349,
+    "timeWeek": 320,
+    "timeMonth": 371,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
-    "timeDay": 222,
-    "timeWeek": 312,
-    "timeMonth": 316,
+    "timeDay": 413,
+    "timeWeek": 311,
+    "timeMonth": 309,
     "timeYear": 517,
     "dailyMinutesDown": {}
   },
@@ -62,20 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/point.seongland.com",
     "slug": "pointland",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 385,
-    "timeDay": 473,
+    "uptimeYear": "100.00%",
+    "time": 384,
+    "timeDay": 130,
     "timeWeek": 232,
-    "timeMonth": 184,
-    "timeYear": 385,
-    "dailyMinutesDown": {
-      "2021-03-03": 9,
-      "2021-03-02": 835
-    }
+    "timeMonth": 188,
+    "timeYear": 384,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seongland Live",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 470,
-    "timeWeek": 255,
+    "time": 336,
+    "timeDay": 193,
+    "timeWeek": 246,
     "timeMonth": 189,
-    "timeYear": 337,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -101,21 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/doc.seongland.com",
     "slug": "seongland-wiki",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 227,
-    "timeWeek": 263,
-    "timeMonth": 325,
+    "timeDay": 462,
+    "timeWeek": 283,
+    "timeMonth": 336,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2021-03-03": 18,
-      "2021-02-22": 12,
-      "2021-02-12": 140,
-      "2021-01-04": 197
-    }
+    "dailyMinutesDown": {}
   }
 ]
