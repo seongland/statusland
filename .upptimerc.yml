@@ -15,7 +15,7 @@ sites:
 
 status-website:
   cname: status.seongland.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://seongland.com/seongland.svg
   name: Status
   introTitle: "Seongland Server Status"
   introMessage: Seongland Web Service status
