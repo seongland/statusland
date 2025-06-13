@@ -4,14 +4,10 @@ repo: statusland
 sites:
   - name: Seongland
     url: https://www.seongland.com
-  - name: Seongland Account
-    url: https://account.seongland.com
+  - name: Texonom
+    url: https://texonom.com
   - name: Pointland
     url: https://point.seongland.com
-  - name: Seongland Live
-    url: https://live.seongland.com
-  - name: Seongland Wiki
-    url: https://doc.seongland.com
 
 status-website:
   cname: status.seongland.com
@@ -24,4 +20,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
